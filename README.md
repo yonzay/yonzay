@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yonzay
 - 👀 I’m interested in all things computer science and more
 - 🌱 I’m currently learning Haskell and DevOps
-- 💞️ I’m looking to collaborate on backend services
+- 💞️ I’m looking to collaborate or work on frontend projects and backend services
 - 📫 Reach me at @yonzay_ on twitter
 
 <!---
